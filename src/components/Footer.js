@@ -2,8 +2,8 @@ const Footer = () => {
 
     return(
         <div className="imgFooter">
-            <h3>SLAJDER ZE ZDJĘCIAMI</h3>
-            <p>Bartosz Kowal - marzec 2021</p>
+            <h3>SLIDER (powered by React)</h3>
+            <p>Bartosz Kowal - march 2021</p>
         </div>
     );
 }
